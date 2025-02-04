@@ -55,7 +55,7 @@ This project is a simple network sniffer built in Python using the Scapy library
 1. **Clone the Repository**:
    - Use the following command to clone the repository:
      ```bash
-     git clone https://github.com/USERNAME/network-sniffer.git
+     git clone 
      ```
    - Replace `USERNAME` with your GitHub username.
 
